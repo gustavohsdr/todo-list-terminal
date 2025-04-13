@@ -1,10 +1,7 @@
 [
     {
-        "titulo": "Estudar PM3",
-        "status": false
-    },
-    {
-        "titulo": "Limpar Casa ",
-        "status": false
+        "titulo": "abc",
+        "status": true,
+        "data": "13/04/2025 15:20"
     }
 ]
